@@ -666,6 +666,11 @@
         width: 40%;
     }
 
+    .card:hover {
+        transform: scale(1);
+        box-shadow: 0;
+    }
+
     .div3 .content-1 {
         width: 90%;
         text-align: center;
